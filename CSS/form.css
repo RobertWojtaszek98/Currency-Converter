@@ -1,0 +1,33 @@
+.form{
+padding: 10px;
+}
+.form__legend{
+    padding:10px 10px;
+    margin: 10px 50px;
+    color: #eee;
+    font-style: normal;
+    background-color:hsl(60, 100%, 20%);
+    border-radius: 5px;
+}
+.form__LabelText{
+   display: inline-block;
+   width: 200px;
+   color: #444; 
+   margin-right: 10px;
+}
+.form__requiredField{
+    color: rgba(255, 0, 0, 0.504);
+    font-weight: bold;
+}
+.form__button{
+    text-align: center;
+}
+.form__buttonContainter
+{
+    text-align: center;
+}
+.form__description{
+    text-align: right;
+    font-size: smaller;
+    font-style: italic;
+}

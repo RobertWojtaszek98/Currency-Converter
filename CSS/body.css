@@ -1,0 +1,19 @@
+html {
+box-sizing: border-box;
+}
+*,::after::before{
+    box-sizing: inherit;
+}
+
+.body{
+    font-family: 'Lato', sans-serif;
+}
+
+.container {
+    padding: 0 20px;
+    margin: 0 auto;
+    max-width: 1000px;
+    background-color:#eee;
+    border-radius: 5px;
+    color: #333;
+}
